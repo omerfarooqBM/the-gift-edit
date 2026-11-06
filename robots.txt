@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://omerfarooqbm.github.io/the-gift-edit/sitemap.xml
