@@ -55,4 +55,12 @@ footer a { color:var(--muted); }
 .book .free { display:inline-block; margin:8px 0 0 14px; font-family:system-ui,'Segoe UI',sans-serif; font-weight:600; font-size:.95rem; }
 .book small { display:block; margin-top:10px; font-family:system-ui,'Segoe UI',sans-serif; color:var(--muted); }
 .section-title { text-align:center; font-size:1.5rem; margin:44px 0 0; }
+.intro { max-width:700px; margin:18px auto 0; text-align:center; font-family:system-ui,'Segoe UI',sans-serif; color:#4a423b; }
+.howto h2 { font-size:1.35rem; margin:34px 0 6px; }
+.howto p { font-family:system-ui,'Segoe UI',sans-serif; color:#4a423b; }
+.wordlist { columns:3 150px; padding-left:1.2em; font-family:system-ui,'Segoe UI',sans-serif; }
+.faq { max-width:740px; margin:56px auto 0; }
+.faq h2 { text-align:center; font-size:1.6rem; }
+.faq h3 { font-size:1.1rem; margin:20px 0 4px; }
+.faq p { margin:0; font-family:system-ui,'Segoe UI',sans-serif; color:#4a423b; }
 @media (max-width:540px) { .idea { grid-template-columns:38px 1fr; padding:16px; } .idea .n { font-size:1.35rem; } header.site .wrap { flex-wrap:wrap; justify-content:center; row-gap:6px; } nav { text-align:center; } nav a { margin:0 8px; } .book { grid-template-columns:90px 1fr; gap:14px; padding:14px; } }
